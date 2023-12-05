@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L N M Anudeep</h1>
-<h3 align="center">Co-Founder of Simppwey</h3>
+<h3 align="center">Co-Founder of Simppwey(Optigrit)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeep586&label=Profile%20views&color=0e75b6&style=flat" alt="anudeep586" /> </p>
 
